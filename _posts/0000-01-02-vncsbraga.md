@@ -1,7 +1,6 @@
-
 ---
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Did I build this ship to wreck?
 Use the left arrow to go back!
